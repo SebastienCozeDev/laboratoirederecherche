@@ -14,7 +14,7 @@ En équipe de trois, nous avons, dans un premier temps, analysé et conçu une b
 
 Dans cette partie, nous avons fait le dictionnaire des données en présentant la liste des propriétés nécessaires pour le fonctionnement du système d'information. Pour chaque propriété, nous avons indiqué son nom, son code, son type, sa taille et les éventuelles contraintes la concernant.
 
-Nous avons ensuite déterminé, à l'aide du dictionnaire de données, la liste des dépendances fonctionnelles. Après cela, nous sommes passés à la conception du Modèle Conceptuel de Données et au [Modèle Logique de Données](analyse-conception/mld.PNG) à l'aide de Looping.
+Nous avons ensuite déterminé, à l'aide du dictionnaire de données, la liste des dépendances fonctionnelles. Après cela, nous sommes passés à la conception du Modèle Conceptuel de Données et du [Modèle Logique de Données](analyse-conception/mld.PNG) à l'aide de Looping.
 
 ## 2 - Implémentation et exploitation de la base de données.
 
